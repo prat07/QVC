@@ -10,8 +10,8 @@ Questions:
 * Q2 - Are email campaigns effective in driving sales? How much effective?
 * Q3 - Create a model to forecast Sales
 
-Check Executive Summary for analysis results.  
+Check Executive Summary for Analysis Results.  
 
-Check Jupyter Notebooks for analysis steps.
+Check Jupyter Notebooks for Analysis Steps.
 
 Skillset Used - Python (pandas, matplotlib, scikit-learn), R, Data Wrangling, Feature Engineering, Time Series, ARIMA, ARIMAX, Random Forest, Gradient Boosting
