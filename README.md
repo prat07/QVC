@@ -1,5 +1,5 @@
 # QVC
-QVC_Data_Analysis
+QVC_Data_Analysis - Exploratory Data Analysis + Time-Series + Regression
 
 QVC is an American cable, satellite and broadcast television network with a flagship shopping channel specializing in televised home shopping. The problem domain was to analyze QVC’s data to identify top selling products and product categories, effect of email campaigns and provide a model to forecast sales.
 
@@ -10,7 +10,8 @@ Questions:
 * Q2 - Are email campaigns effective in driving sales? How much effective?
 * Q3 - Create a model to forecast Sales
 
-Check Executive Summary for analysis results.
+Check Executive Summary for analysis results.  
+
 Check Jupyter Notebooks for analysis steps.
 
 Skillset Used - Python (pandas, matplotlib, scikit-learn), R, Data Wrangling, Feature Engineering, Time Series, ARIMA, ARIMAX, Random Forest, Gradient Boosting
