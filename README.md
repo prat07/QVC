@@ -6,9 +6,9 @@ QVC is an American cable, satellite and broadcast television network with a flag
 Dataset has 6 tables (details in data dictionary), with 4.7+ million records after joining relevant tables.
 
 Questions:
-Q1 - Identify top selling products and product categories?
-Q2 - Are email campaigns effective in driving sales? How much effective?
-Q3 - Create a model to forecast Sales
+* Q1 - Identify top selling products and product categories?
+* Q2 - Are email campaigns effective in driving sales? How much effective?
+* Q3 - Create a model to forecast Sales
 
 Check Executive Summary for analysis results.
 Check Jupyter Notebooks for analysis steps.
