@@ -1,5 +1,4 @@
-# QVC
-QVC_Data_Analysis - Exploratory Data Analysis + Time-Series + Regression
+# QVC Data Analysis: Exploratory Data Analysis + Time-Series + Regression
 
 QVC is an American cable, satellite and broadcast television network with a flagship shopping channel specializing in televised home shopping. The problem domain was to analyze QVC’s data to identify top selling products and product categories, effect of email campaigns and provide a model to forecast sales.
 
