@@ -14,3 +14,5 @@ Check Executive Summary for Analysis Results.
 Check Jupyter Notebooks for Analysis Steps.
 
 Skillset Used - Python (pandas, matplotlib, scikit-learn), R, Data Wrangling, Feature Engineering, Time Series, ARIMA, ARIMAX, Random Forest, Gradient Boosting
+
+#TBD - Apply LSTM to Q3
